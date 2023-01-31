@@ -6,6 +6,10 @@
 
   
 In order to provide people with the same old experience; I have given a nice real look to the 90's famous game. 
+
+1. Used turtle module
+2. 2. oops programming
+
 <img src = "https://github.com/SyeedaKudhsia8/Arcade_Game/blob/main/Arcade%20Game.png" width = 1000 height = "600"/>
 
 
