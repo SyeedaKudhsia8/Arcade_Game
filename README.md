@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) 
 
   
-In this project, you have successfully recreated a beloved 90's game using Python, providing users with a nostalgic experience while leveraging modern programming techniques. Here's a detailed overview of your project:
+In this project, I have successfully recreated a beloved 90's game using Python, providing users with a nostalgic experience while leveraging modern programming techniques. Here's a detailed overview of my project:
 
 ## Objective
 The primary goal of this project is to bring back the charm of a classic 90's game, offering users the same engaging experience with a fresh, real look. This is achieved using Python's Turtle module and Object-Oriented Programming (OOP) principles.
