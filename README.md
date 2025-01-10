@@ -14,7 +14,8 @@ Python: The core programming language used for the entire project.
 Turtle Module: Utilized for creating graphics and game elements, providing a simple way to draw shapes and control animations.
 
 Object-Oriented Programming (OOP): Employed to structure the game code efficiently, making it modular, reusable, and easier to maintain.
-Key Features
+
+## Key Features
 
 Game Design: The game replicates the original 90's classic, maintaining its core mechanics and gameplay while enhancing the visual appeal.
 
@@ -23,7 +24,8 @@ Graphics and Animation: Using the Turtle module, the game features smooth animat
 Modular Code Structure: The use of OOP allows for a clean and organized codebase. Key game components such as players, enemies, and game logic are encapsulated in classes, promoting code reusability and scalability.
 
 User Interaction: The game includes interactive elements, allowing users to control the game using keyboard inputs, enhancing the overall user experience.
-Implementation Details
+
+## Implementation Details
 
 Classes and Objects: The game is built using various classes to represent different game elements. For example, a Player class to handle player movements and actions, an Enemy class for adversaries, and a Game class to manage the overall game logic.
 
