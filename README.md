@@ -2,15 +2,13 @@
 
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) 
 
-## Introduction 
-
   
 In this project, you have successfully recreated a beloved 90's game using Python, providing users with a nostalgic experience while leveraging modern programming techniques. Here's a detailed overview of your project:
 
-Objective
+## Objective
 The primary goal of this project is to bring back the charm of a classic 90's game, offering users the same engaging experience with a fresh, real look. This is achieved using Python's Turtle module and Object-Oriented Programming (OOP) principles.
 
-Technologies Used
+## Technologies Used
 Python: The core programming language used for the entire project.
 
 Turtle Module: Utilized for creating graphics and game elements, providing a simple way to draw shapes and control animations.
@@ -33,7 +31,7 @@ Game Loop: A continuous game loop is implemented to keep the game running, updat
 
 Collision Detection: The game includes collision detection mechanisms to handle interactions between the player and other game elements, ensuring a smooth and responsive gameplay experience.
 
-Conclusion
+## Conclusion
 This project not only revives a classic game but also demonstrates the power of Python and the Turtle module in creating interactive and visually appealing applications. By using OOP principles, the project showcases a well-structured and maintainable codebase, making it a fantastic example of modern programming techniques applied to a nostalgic concept.
 
 <img src = "https://github.com/SyeedaKudhsia8/Arcade_Game/blob/main/Arcade%20Game.png" width = 1000 height = "600"/>
